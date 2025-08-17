@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrit Kumar</h1>
 <h3 align="center">Frontend Developer | Turning ideas into clean, efficient code 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritkumar8506" alt="amritkumar8506" /></a> </p>
-
 - 🌱 I’m currently learning **I’m currently learning: Backend development (Node.js, Express, Databases) & DSA**
 
 - 👨‍💻 All of my projects are available at [[My GitHub]]([My GitHub])
