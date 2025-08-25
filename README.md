@@ -31,9 +31,6 @@
 
 ---
 
-![GitHub Contributions](https://ghchart.rshah.org/amritkumar8506)
-
-
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amritkumar8506&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
