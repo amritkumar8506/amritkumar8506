@@ -31,20 +31,28 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amritkumar8506&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amritkumar8506&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=amritkumar8506&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amritkumar8506&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritkumar8506&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritkumar8506&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/amrit-kumar-582a96200" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://codesandbox.com/amritkumar8410" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" /></a>
   <a href="https://github.com/amritkumar8506" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="center">Projects / Portfolio</h3>
+<p align="center">
+  <b>Employee Management System (EMS)</b> | <a href="https://employeee-mangement-system.netlify.app/">Live Demo</a> | <a href="https://github.com/amritkumar8506/Employee-Management-System">Code</a><br>
+  <!-- You can add more projects like this -->
 </p>
